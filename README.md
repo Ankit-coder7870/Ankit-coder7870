@@ -1,9 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ankit Anand</h1>
-<h3 align="center">Java Backend & Full-Stack Developer | Spring Boot | React | Kafka | Redis</h3>
 
-- 🔭 I’m currently working on [Building secure authentication systems with Spring Boot](https://github.com/Ankit-coder7870/Authentication-BackendApp.git)
+🚀 About Me
 
-- 📫 How to reach me **ankitanand1774@gmail.com**
+Hi, I'm Ankit Anand, a Computer Science graduate and an aspiring Java Backend Developer.
+
+☕ Building backend applications using Java & Spring Boot
+🔐 Interested in Spring Security, JWT & OAuth 2.0
+⚡ Working with REST APIs, Spring Data JPA & MySQL
+🚀 Exploring Redis, Apache Kafka & Docker
+🧠 Strengthening my skills in Data Structures & Algorithms
+🛠️ Enjoy building practical backend projects and solving programming problems
+🌱 Currently improving my knowledge of Java, Spring Boot & Backend Development
+🎯 Looking for opportunities as a Java Backend Developer
+
+I believe in learning by building, writing clean and maintainable code, and continuously improving my problem-solving skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
