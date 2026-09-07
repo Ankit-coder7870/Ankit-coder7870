@@ -24,23 +24,18 @@ I believe in **learning by building, writing clean and maintainable code, and co
 
 ---
 
-## 🔗 Connect With Me
+🔗 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/ankit-anand" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+<p align="left"> <a href="https://www.linkedin.com/in/ankit-anand-a74196267" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a>
 
-  <a href="https://www.leetcode.com/ankit7870" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+<a href="https://www.leetcode.com/ankit7870" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /> </a> </p>
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
+
   <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
@@ -73,6 +68,10 @@ I believe in **learning by building, writing clean and maintainable code, and co
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
 
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+
   <a href="https://maven.apache.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
   </a>
@@ -84,12 +83,14 @@ I believe in **learning by building, writing clean and maintainable code, and co
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
+
 </p>
 
 ---
 
 ## 📌 What I'm Currently Learning
 
+* **Advanced Java**
 * **Spring Boot**
 * **Spring Security**
 * **REST API Development**
@@ -98,6 +99,31 @@ I believe in **learning by building, writing clean and maintainable code, and co
 * **Apache Kafka**
 * **Docker**
 * **Data Structures & Algorithms**
+
+---
+
+## 🚀 Featured Project
+
+### 🔐 Secure Authentication System
+
+A secure authentication backend built using **Java, Spring Boot and Spring Security**.
+
+**Tech Stack:**
+
+`Java` `Spring Boot` `Spring Security` `JWT` `OAuth 2.0` `MySQL` `Redis` `REST API`
+
+**Key Features:**
+
+* User Registration & Login
+* JWT-based Authentication
+* Access & Refresh Tokens
+* Refresh Token Rotation
+* Role-Based Access Control
+* OAuth 2.0 Authentication
+* JWT Blacklisting
+* API Rate Limiting
+* Redis Caching
+* Secure Password Hashing
 
 ---
 
@@ -137,7 +163,7 @@ I believe in **learning by building, writing clean and maintainable code, and co
 
 ## 🎯 Career Goal
 
-My goal is to become a strong **Java Backend Developer** by building real-world applications, improving my problem-solving skills, and continuously learning backend technologies.
+My goal is to become a strong **Java Backend Developer** by building real-world applications, improving my problem-solving skills, and continuously learning modern backend technologies.
 
 ---
 
