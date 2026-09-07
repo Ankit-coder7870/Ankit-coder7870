@@ -1,183 +1,168 @@
-::: {align="center"}
-# 👋 Hi, I'm Ankit Anand
+<div align="center">
 
-### ☕ Java Backend & Full-Stack Developer
+👋 Hi, I'm Ankit Anand
 
-**Java • Spring Boot • Spring Security • React • Kafka • Redis • MySQL**
+☕ Java Backend & Full-Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-anand)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ankit7870-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ankit7870)
-[![GitHub](https://img.shields.io/badge/GitHub-Ankit--coder7870-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit-coder7870)
+Java • Spring Boot • Spring Security • React • Kafka • Redis • MySQL
 
-![Profile
-Views](https://komarev.com/ghpvc/?username=ankit-coder7870&label=Profile%20Views&color=0e75b6&style=flat)
-:::
+<a href="https://linkedin.com/in/ankit-anand">
+  <img src="https://img.shields.io/badge/LinkedIn-Ankit%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/ankit7870">
+  <img src="https://img.shields.io/badge/LeetCode-ankit7870-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+<a href="https://github.com/Ankit-coder7870">
+  <img src="https://img.shields.io/badge/GitHub-Ankit--coder7870-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-------------------------------------------------------------------------
+<br/>
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=ankit-coder7870&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
--   🔭 Currently building **secure authentication systems with Spring
-    Boot**
--   🌱 Improving my skills in **Java, Spring Boot, System Design & DSA**
--   💻 Interested in **Backend Development and Full-Stack Engineering**
--   🔐 Interested in **JWT, OAuth 2.0, RBAC, Redis & API Security**
--   🧩 Practicing **Data Structures & Algorithms** regularly
--   🎯 Goal: Become a strong **Java Backend Engineer**
--   📫 Reach me at **ankitanand1774@gmail.com**
+</div>
 
-------------------------------------------------------------------------
+🚀 About Me
 
-## 🛠️ Tech Stack
+🔭 Currently building secure authentication systems with Spring Boot
 
-### Backend
+🌱 Improving my skills in Java, Spring Boot, System Design & DSA
 
-```{=html}
-<p>
-```
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Kafka"/>`{=html}
-```{=html}
-</p>
-```
-### Frontend
+💻 Interested in Backend Development and Full-Stack Engineering
 
-```{=html}
-<p>
-```
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>`{=html}
-```{=html}
-</p>
-```
-### Database, DevOps & Tools
+🔐 Interested in JWT, OAuth 2.0, RBAC, Redis & API Security
 
-```{=html}
-<p>
-```
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins"/>`{=html}
-`<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>`{=html}
-```{=html}
-</p>
-```
+🧩 Practicing Data Structures & Algorithms regularly
 
-------------------------------------------------------------------------
+🎯 Goal: Become a strong Java Backend Engineer
 
-# 📊 GitHub Analytics
+📫 Reach me at ankitanand1774@gmail.com
 
-::: {align="center"}
-`<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankit-coder7870&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />`{=html}
+🛠️ Tech Stack
 
-`<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-coder7870&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />`{=html}
-:::
+☕ Backend Development
 
-### ⭐ GitHub Overview
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Apache Kafka"/>
+</div>
 
-::: {align="center"}
-![GitHub
-Streak](https://streak-stats.demolab.com?user=ankit-coder7870&theme=tokyonight&hide_border=true)
-:::
+⚛️ Frontend Development
 
-The GitHub stats above dynamically show:
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+</div>
 
--   📦 **Total Repositories**
--   ⭐ **Stars Earned**
--   📝 **Total Commits**
--   🔀 **Pull Requests**
--   🐛 **Issues**
--   💻 **Most Used Languages**
+🗄️ Database
 
-------------------------------------------------------------------------
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+</div>
 
-# 📈 Contribution Activity Graph
+⚙️ DevOps & Tools
 
-::: {align="center"}
-[![Ankit's GitHub Activity
-Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankit-coder7870&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ankit-coder7870)
-:::
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+</div>
 
-------------------------------------------------------------------------
+📊 GitHub Analytics
 
-# 🏆 GitHub Achievements
+<div align="center">
 
-::: {align="center"}
-[![GitHub
-Trophies](https://github-profile-trophy.vercel.app/?username=ankit-coder7870&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/Ankit-coder7870)
-:::
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ankit-coder7870&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
 
-------------------------------------------------------------------------
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-coder7870&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
 
-# 💻 Coding Activity
+</div>
 
-### 🟨 LeetCode
+🔥 Contribution Streak
 
-I regularly practice **DSA and problem solving** on LeetCode.
+<div align="center">
 
-::: {align="center"}
-[![LeetCode
-Stats](https://leetcard.jacoblin.cool/ankit7870?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/ankit7870)
-:::
+<img src="https://streak-stats.demolab.com?user=ankit-coder7870&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-------------------------------------------------------------------------
+</div>
 
-# 🔥 Contribution Streak
+📈 Contribution Activity Graph
 
-::: {align="center"}
-![GitHub
-Streak](https://streak-stats.demolab.com?user=ankit-coder7870&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-:::
+<div align="center">
 
-------------------------------------------------------------------------
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-coder7870&theme=tokyo-night&hide_border=true&area=true" alt="Ankit's GitHub Activity Graph"/>
 
-# 🚀 Featured Projects
+</div>
 
-## 🔐 Authentication Backend
+🏆 GitHub Achievements
 
-**Spring Boot • Spring Security • JWT • Redis • MySQL • OAuth 2.0**
+<div align="center">
 
-A secure authentication backend implementing modern authentication and
-authorization concepts.
+<img src="https://github-profile-trophy.vercel.app/?username=ankit-coder7870&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies"/>
 
-### Key Features
+</div>
 
--   🔑 JWT-based authentication
--   🔄 Refresh Token Rotation
--   🛡️ Spring Security
--   👥 Role-Based Access Control (RBAC)
--   🔐 OAuth 2.0
--   🚫 JWT Blacklisting
--   ⚡ Redis Caching
--   🚦 API Rate Limiting
--   🗄️ MySQL Database
+💻 Coding Activity
 
-👉 **[View Authentication
-Backend](https://github.com/Ankit-coder7870/Authentication-BackendApp)**
+🟨 LeetCode
 
-------------------------------------------------------------------------
+I regularly practice DSA and problem solving on LeetCode.
 
-## 🎨 Authentication Frontend
+<div align="center">
 
-**React.js • TypeScript • Modern UI**
+<a href="https://leetcode.com/ankit7870">
+  <img src="https://leetcard.jacoblin.cool/ankit7870?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats"/>
+</a>
 
-Frontend application for the authentication system with a modern and
-responsive user interface.
+</div>
 
-👉 **[View Frontend
-Repository](https://github.com/Ankit-coder7870/Auth-App-Frontend)**
+🚀 Featured Projects
 
-------------------------------------------------------------------------
+🔐 Authentication Backend
 
-# 📌 Currently Working On
+Spring Boot • Spring Security • JWT • Redis • MySQL • OAuth 2.0
 
-``` text
+A secure authentication backend implementing modern authentication and authorization concepts.
+
+Key Features
+
+🔑 JWT-based authentication
+
+🔄 Refresh Token Rotation
+
+🛡️ Spring Security
+
+👥 Role-Based Access Control (RBAC)
+
+🔐 OAuth 2.0
+
+🚫 JWT Blacklisting
+
+⚡ Redis Caching
+
+🚦 API Rate Limiting
+
+🗄️ MySQL Database
+
+👉 View Authentication Backend
+
+🎨 Authentication Frontend
+
+React.js • TypeScript • Modern UI
+
+Frontend application for the authentication system with a modern and responsive user interface.
+
+👉 View Frontend Repository
+
+📌 Currently Working On
+
 Java Backend
     │
     ├── Spring Boot
@@ -196,27 +181,31 @@ Full Stack
 Problem Solving
     │
     └── Data Structures & Algorithms
-```
 
-------------------------------------------------------------------------
+📚 What I'm Learning
 
-# 📚 What I'm Learning
+☕ Advanced Java
 
--   ☕ Advanced Java
--   🌱 Spring Boot & Spring Security
--   🔐 Application Security
--   🧠 Data Structures & Algorithms
--   🏗️ System Design
--   📨 Apache Kafka
--   ⚡ Redis & Caching
--   🐳 Docker & CI/CD
+🌱 Spring Boot & Spring Security
 
-------------------------------------------------------------------------
+🔐 Application Security
 
-::: {align="center"}
-### 💬 "Code. Learn. Build. Repeat."
+🧠 Data Structures & Algorithms
+
+🏗️ System Design
+
+📨 Apache Kafka
+
+⚡ Redis & Caching
+
+🐳 Docker & CI/CD
+
+<div align="center">
+
+💬 "Code. Learn. Build. Repeat."
 
 ⭐ If you find my projects useful, consider giving them a star!
 
-**Thanks for visiting my profile! 🚀**
-:::
+Thanks for visiting my profile! 🚀
+
+</div>
