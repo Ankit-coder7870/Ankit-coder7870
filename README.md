@@ -1,31 +1,176 @@
+# 👋 Hi, I'm Ankit Anand
 
-🚀 About Me
+### ☕ Java Backend Developer
 
-Hi, I'm Ankit Anand, a Computer Science graduate and an aspiring Java Backend Developer.
+**Java • Spring Boot • Spring Security • JPA • MySQL • Redis • Kafka • Docker**
 
-☕ Building backend applications using Java & Spring Boot
-🔐 Interested in Spring Security, JWT & OAuth 2.0
-⚡ Working with REST APIs, Spring Data JPA & MySQL
-🚀 Exploring Redis, Apache Kafka & Docker
-🧠 Strengthening my skills in Data Structures & Algorithms
-🛠️ Enjoy building practical backend projects and solving programming problems
-🌱 Currently improving my knowledge of Java, Spring Boot & Backend Development
-🎯 Looking for opportunities as a Java Backend Developer
+---
 
-I believe in learning by building, writing clean and maintainable code, and continuously improving my problem-solving skills.
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+Hi, I'm **Ankit Anand**, a Computer Science graduate and an aspiring **Java Backend Developer**.
+
+* ☕ Building backend applications using **Java & Spring Boot**
+* 🔐 Working with **Spring Security, JWT & OAuth 2.0**
+* ⚡ Building **REST APIs** using Spring Boot
+* 🗄️ Working with **Spring Data JPA & MySQL**
+* 🚀 Exploring **Redis, Apache Kafka & Docker**
+* 🧠 Strengthening my skills in **Data Structures & Algorithms**
+* 🛠️ Enjoy building practical backend projects and solving programming problems
+* 🌱 Continuously improving my **Java & Spring Boot** skills
+* 🎯 Looking for opportunities as a **Java Backend Developer**
+
+I believe in **learning by building, writing clean and maintainable code, and continuously improving my problem-solving skills.**
+
+---
+
+## 🔗 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/ankit-anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-anand" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankit7870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankit7870" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ankit-anand" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <a href="https://www.leetcode.com/ankit7870" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-coder7870&show_icons=true&locale=en&layout=compact" alt="ankit-coder7870" /></p>
+## 🛠️ Languages & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-coder7870&show_icons=true&locale=en" alt="ankit-coder7870" /></p>
+<p align="left">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-coder7870&" alt="ankit-coder7870" /></p>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
 
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  </a>
+
+  <a href="https://spring.io/projects/spring-security" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Security" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+  </a>
+
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+
+  <a href="https://maven.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+
+</p>
+
+---
+
+## 📌 What I'm Currently Learning
+
+* **Advanced Java**
+* **Spring Boot**
+* **Spring Security**
+* **REST API Development**
+* **Spring Data JPA**
+* **Redis**
+* **Apache Kafka**
+* **Docker**
+* **Data Structures & Algorithms**
+
+---
+
+## 🚀 Featured Project
+
+### 🔐 Secure Authentication System
+
+A secure authentication backend built using **Java, Spring Boot and Spring Security**.
+
+**Tech Stack:**
+
+`Java` `Spring Boot` `Spring Security` `JWT` `OAuth 2.0` `MySQL` `Redis` `REST API`
+
+**Key Features:**
+
+* User Registration & Login
+* JWT-based Authentication
+* Access & Refresh Tokens
+* Refresh Token Rotation
+* Role-Based Access Control
+* OAuth 2.0 Authentication
+* JWT Blacklisting
+* API Rate Limiting
+* Redis Caching
+* Secure Password Hashing
+
+---
+
+## 💻 DSA & Problem Solving
+
+* Solving problems on **LeetCode**
+* Practicing **Data Structures & Algorithms**
+* Focused on:
+
+  * Arrays
+  * Strings
+  * HashMap
+  * Sliding Window
+  * Two Pointers
+  * Binary Search
+  * Sorting
+  * Recursion
+  * Prefix Sum
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit-coder7870&show_icons=true&locale=en" alt="Ankit's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-coder7870" alt="Ankit's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-coder7870&show_icons=true&locale=en&layout=compact" alt="Ankit's Top Languages" />
+</p>
+
+---
+
+## 🎯 Career Goal
+
+My goal is to become a strong **Java Backend Developer** by building real-world applications, improving my problem-solving skills, and continuously learning modern backend technologies.
+
+---
+
+⭐ **Thanks for visiting my profile!**
